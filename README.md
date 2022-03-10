@@ -98,7 +98,7 @@ Para este projeto, você deverá aplicar os princípios da arquitetura `SOLID` e
 
 1. Clone o repositório
 
-- `git clone https://github.com/tryber/sd-014-b-project-s-and-dragons.git`.
+- `git clone https://github.com/tryber/sd-014-b-project-trybers-and-dragons.git`.
 - Entre na pasta do repositório que você acabou de clonar:
   - `cd sd-014-b-project-s-and-dragons`
 
