@@ -15,7 +15,7 @@ class Necromancer extends Archetype {
     return this._energyType;
   }
 
-  static createdArchetypesInstances(): number {
+  static createdArchetypeInstances(): number {
     return Necromancer._createdArchetypesInstances;
   }
 }
