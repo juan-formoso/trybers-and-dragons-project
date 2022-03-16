@@ -8,10 +8,7 @@ Neste projeto o objetivo era:
 - Implementar, em `TypeScript`: `Classes`, `Instâncias`, `Atributos`, `Métodos` e `Objetos`;
 - Exercitar o conhecimento por meio da aplicação dos princípios `SOLID`.
 
-
-
-Essa API, possui alguns endpoints (seguindo os princípios do REST) que estão conectados ao banco de dados, sempre pensando no modelo de negócio. A ideia dessa API é criar um api de produto.Nessa API o usuário irá fazer o login e caso não tenha cadastro ainda, se cadastrar. Caso as autentificações estejam corretas e ele exista no banco de dados, irá criar um token de autentificação e esterá permitido cadastrar um novo produto ou listá-los.
-
+Este projeto consiste na aplicação dos princípios da arquitetura SOLID e os princípios de POO em uma estrutura de jogos de interpretação de papéis, mais conhecidos como jogos RPG (Role Playing Game).
 
 # Ferramentas usadas 🧰
 
